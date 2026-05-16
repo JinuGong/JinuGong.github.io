@@ -1,7 +1,5 @@
-# Jinu Gong
+# jinugong.github.io
 
-<a href="https://jekyll-themes.com">
-  <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
+Personal homepage of Jinu Gong — Department of Applied AI, Hansung University.
 
-Hansung Unversity, Department of Applied AI.
+Plain static HTML/CSS, served by GitHub Pages.
